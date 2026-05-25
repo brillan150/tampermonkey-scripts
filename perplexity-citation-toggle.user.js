@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Perplexity Citation Toggle for Speechify
 // @namespace    https://github.com/brillan150/tampermonkey-scripts
-// @version      2026.05.24.1
+// @version      2026.05.24.2
 // @description  Toggle Perplexity citations on/off for cleaner Speechify reading
 // @match        https://www.perplexity.ai/*
 // @match        https://perplexity.ai/*
