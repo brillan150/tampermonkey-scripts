@@ -1,8 +1,11 @@
 // ==UserScript==
-// @name         Perplexity Citation Toggle for Speechify
+// @name         Perplexity Citation Toggle for Speechify 🔊
 // @namespace    https://github.com/brillan150/tampermonkey-scripts
-// @version      2026.05.24.2
+// @version      2026.05.24.3
 // @description  Toggle Perplexity citations on/off for cleaner Speechify reading
+// @author       Brillan P. Morgan
+// @homepageURL  https://github.com/brillan150/tampermonkey-scripts
+// @license      MIT
 // @match        https://www.perplexity.ai/*
 // @match        https://perplexity.ai/*
 // @grant        GM_getValue
@@ -10,6 +13,8 @@
 // @run-at       document-idle
 // @downloadURL  https://raw.githubusercontent.com/brillan150/tampermonkey-scripts/main/perplexity-citation-toggle.user.js
 // @updateURL    https://raw.githubusercontent.com/brillan150/tampermonkey-scripts/main/perplexity-citation-toggle.user.js
+// @tag          speechify
+// @tag          perplexity
 // ==/UserScript==
 
 (function () {
